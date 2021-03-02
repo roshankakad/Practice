@@ -99,3 +99,31 @@ cd .
 cd ..
 ls -a
 cat .gitconfig 
+git status -s
+git commit
+git add .
+git status -s
+git add .
+git status -s
+cd repos/
+git status 
+git status  -s
+git add .
+git status  -s
+git commit 
+git commit  -m "3rd changes"
+git status 0s
+git status -s
+git push origin master
+git log
+ls
+git pull origin master
+ls 
+pwd
+cat newfile2
+cat newfile
+car abc 
+cat abc 
+git log
+git pull origin master
+git log 
