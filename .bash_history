@@ -65,3 +65,37 @@ git log
 git reset --hard a5c043f53a3be7b2dbdd98b0317fcf0a6ae5513a
 git log
 cat readme 
+ls 
+git status -s
+cat .bash_history
+cat 
+cat new_file
+echo  new_file
+echo  new_file > newfile
+git status -s
+git commit -m "2nd day new file aded"
+git status -s
+git add .bash_history
+git status -s
+git commit -m "2nd day new file aded"
+git status -s
+git log
+git show 1f7137271e15451a9c15e45e98af8669b9852ff9
+git remote add origin https://github.com/roshankakad/Practice.git
+cd .git
+ls
+cat config 
+cat branches/
+cd branches/
+ls
+l s-a
+ls -a
+ls
+cd .git
+ls
+cat config 
+pwd
+cd .
+cd ..
+ls -a
+cat .gitconfig 
