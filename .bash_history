@@ -58,3 +58,10 @@ git status -s
  rm -r readme
 ls
 git status -s
+ls 
+cat abc 
+cat readme 
+git log
+git reset --hard a5c043f53a3be7b2dbdd98b0317fcf0a6ae5513a
+git log
+cat readme 
